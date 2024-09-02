@@ -29,7 +29,7 @@ cp .env.example .env
 - Vendor Publish
 
 ```shell
-php artisan log-viewer:publish
+php artisan vendor:publish --tag=log-viewer-config
 ```
 
 - Migrate
