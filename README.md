@@ -40,7 +40,7 @@ php artisan migrate
 
 ### 🏆 Run
 
-- [http://localhost:8000/](http://localhost:8000/) username : `admin` password : `admin`
+- [http://localhost:8000/log-viewer](http://localhost:8000/log-viewer) username : `admin` password : `admin`
 
 ```shell
 php artisan serve
